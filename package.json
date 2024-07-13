@@ -1,0 +1,20 @@
+{
+  "name": "command-line-interface-atm",
+  "version": "1.0.0",
+  "description": "The CLI ATM which is User-Freindly and easy to use.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dua Fatima",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-interface-atm": "^1.0.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
