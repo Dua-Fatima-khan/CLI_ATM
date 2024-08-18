@@ -9,6 +9,8 @@ _A command line interface ATM simulator built using TypeScript and Inquirer.js._
 ## 🔍 Usage
 
 `npx official_atm_simulator`
+## Your Pin
+`45672`
 
 ## 🤩 Features
 
